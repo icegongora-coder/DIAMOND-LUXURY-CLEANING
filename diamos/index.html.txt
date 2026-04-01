@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Mi Empresa de Limpieza</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+<h1>The DIAMOND LUXURY Cleaning</h1>
+<nav>
+<a href="#">Inicio</a>
+<a href="#">Servicios</a>
+<a href="#">Contacto</a>
+</nav>
+</header>
+
+<section class="hero">
+<h2>Profesionales en limpieza</h2>
+<p>Dejamos todo impecable</p>
+<a href="https://wa.me/12175200910>
+<button>Contáctanos</button>
+</a>
+</section>
+
+<section class="services">
+<h2>Servicios</h2>
+<ul>
+<li>Limpieza de casas</li>
+<li>Limpieza de oficinas</li>
+<li>Limpieza profunda</li>
+</ul>
+</section>
+
+<footer>
+<p>© 2026 DIAMOND LUXURY Cleaning</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
